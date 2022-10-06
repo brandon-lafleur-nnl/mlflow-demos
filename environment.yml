@@ -1,0 +1,13 @@
+name: mlflow-demos
+channels:
+    - conda-forge
+    - main
+    - pytorch
+
+dependencies:
+    - python>=3.10
+    - mlflow
+    - scikit-learn
+    - numpy
+    - pandas
+    - pytorch
